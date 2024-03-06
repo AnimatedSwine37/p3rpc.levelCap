@@ -1,0 +1,24 @@
+{
+  "ModId": "p3rpc.levelCap",
+  "ModName": "Level Cap",
+  "ModAuthor": "AnimatedSwine37",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Prevents party members from overleveling by preventing exp gain up to certain levels.",
+  "ModDll": "p3rpc.levelCap.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p3rpc.levelCap.dll",
+  "ModR2RManagedDll64": "x64/p3rpc.levelCap.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.levelCap.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": ["p3r.exe"],
+  "ProjectUrl": ""
+}
